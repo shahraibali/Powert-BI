@@ -1,6 +1,6 @@
 # Apple-Google-Meta-Stock-Prices-Analysis-Power-BI-Portfolio-Project
 # Introduction
-Business Problem Statement:
+# Business Problem Statement:
 As a data analyst, the task is to conduct a comprehensive analysis and visualization of historical stock prices for Apple, Google, and Meta from September 7, 2017, to September 7, 2022. The primary goal is to explore relationships and correlations among the stock prices of these three companies.
 
 # Dashboard Requirements:
